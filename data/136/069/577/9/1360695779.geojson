@@ -94,13 +94,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        404227825,
-        404407579,
         85633147,
-        1108826393,
-        101751421,
-        136253037,
         102066661,
+        136253037,
+        404407579,
+        101751421,
+        404227825,
+        1108826393,
         85683579
     ],
     "wof:breaches":[],
@@ -132,7 +132,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1617130058,
+    "wof:lastmodified":1750072451,
     "wof:name":"Rots",
     "wof:parent_id":404407579,
     "wof:placetype":"neighbourhood",
