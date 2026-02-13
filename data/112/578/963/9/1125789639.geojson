@@ -20,112 +20,115 @@
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
-        "La-Klyuz"
+        "D\u00e9voluy"
     ],
     "name:bug_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:cat_x_preferred":[
-        "La Clusa"
+        "D\u00e9voluy"
     ],
     "name:ceb_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:che_x_preferred":[
-        "\u041b\u0430-\u041a\u043b\u0443\u044c\u0437"
+        "D\u00e9voluy"
     ],
     "name:deu_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:eng_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:eus_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:fra_x_preferred":[
+        "D\u00e9voluy"
+    ],
+    "name:fra_x_variant":[
         "La Cluse"
     ],
     "name:gle_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:hbs_x_preferred":[
-        "Cluse"
+        "D\u00e9voluy"
     ],
     "name:hun_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:ita_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:lat_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:lld_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:lmo_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:msa_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:nld_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:nob_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:oci_x_preferred":[
-        "La Clusa"
+        "D\u00e9voluy"
     ],
     "name:pms_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:pol_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:por_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:ron_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0430-\u041a\u043b\u044e\u0437"
+        "D\u00e9voluy"
     ],
     "name:slk_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:spa_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:srp_x_preferred":[
-        "\u041a\u043b\u0438\u0437"
+        "D\u00e9voluy"
     ],
     "name:swe_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:tat_x_preferred":[
-        "\u041b\u0430-\u041a\u043b\u044e\u0437"
+        "D\u00e9voluy"
     ],
     "name:ukr_x_preferred":[
-        "\u041b\u0430-\u041a\u043b\u044e\u0437"
+        "D\u00e9voluy"
     ],
     "name:urd_x_preferred":[
-        "\u0644\u0627 \u06a9\u0644\u06cc\u0648\u0633\u06cc"
+        "D\u00e9voluy"
     ],
     "name:vie_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:vol_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:war_x_preferred":[
-        "La Cluse"
+        "D\u00e9voluy"
     ],
     "name:zho_x_preferred":[
-        "\u62c9\u514b\u5415\u65af"
+        "D\u00e9voluy"
     ],
     "qs_pg:aaroncc":"FR",
     "qs_pg:gn_country":"FR",
@@ -194,7 +197,7 @@
     ],
     "wof:id":1125789639,
     "wof:lastmodified":1690904067,
-    "wof:name":"La Cluse",
+    "wof:name":"D\u00e9voluy",
     "wof:parent_id":404355257,
     "wof:placetype":"locality",
     "wof:population":57,
