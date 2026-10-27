@@ -46,12 +46,6 @@
     "name:afr_x_preferred":[
         "Arrest"
     ],
-    "name:ara_x_preferred":[
-        "\u0627\u062d\u062a\u062c\u0627\u0632"
-    ],
-    "name:ara_x_variant":[
-        "\u0627\u0639\u062a\u0642\u0627\u0644"
-    ],
     "name:arg_x_preferred":[
         "Arrest"
     ],
@@ -70,14 +64,8 @@
     "name:bug_x_preferred":[
         "Arrest"
     ],
-    "name:bul_x_preferred":[
-        "\u0417\u0430\u0434\u044a\u0440\u0436\u0430\u043d\u0435 \u043f\u043e\u0434 \u0441\u0442\u0440\u0430\u0436\u0430"
-    ],
     "name:cat_x_preferred":[
         "Arrest"
-    ],
-    "name:ces_x_preferred":[
-        "Zat\u010den\u00ed"
     ],
     "name:ces_x_variant":[
         "Arrest"
@@ -88,23 +76,11 @@
     "name:cym_x_preferred":[
         "Arrest"
     ],
-    "name:dan_x_preferred":[
-        "Anholdelse"
-    ],
-    "name:deu_x_preferred":[
-        "Festnahme"
-    ],
     "name:deu_x_variant":[
         "Arrest"
     ],
     "name:eng_x_preferred":[
         "Arrest"
-    ],
-    "name:epo_x_preferred":[
-        "Aresto"
-    ],
-    "name:est_x_preferred":[
-        "Vahistamine"
     ],
     "name:eus_x_preferred":[
         "Arrest"
@@ -112,14 +88,8 @@
     "name:fao_x_preferred":[
         "Arrest"
     ],
-    "name:fin_x_preferred":[
-        "Pid\u00e4tt\u00e4minen"
-    ],
     "name:fra_x_preferred":[
         "Arrest"
-    ],
-    "name:fra_x_variant":[
-        "Arrestation"
     ],
     "name:frc_x_preferred":[
         "Arrest"
@@ -136,32 +106,8 @@
     "name:gle_x_preferred":[
         "Arrest"
     ],
-    "name:glg_x_preferred":[
-        "Arresto"
-    ],
     "name:gsw_x_preferred":[
         "Arrest"
-    ],
-    "name:hbs_x_preferred":[
-        "Hap\u0161enje"
-    ],
-    "name:heb_x_preferred":[
-        "\u05de\u05e2\u05e6\u05e8"
-    ],
-    "name:hin_x_preferred":[
-        "\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940"
-    ],
-    "name:hrv_x_preferred":[
-        "Uhi\u0107enje"
-    ],
-    "name:hun_x_preferred":[
-        "El\u0151zetes letart\u00f3ztat\u00e1s"
-    ],
-    "name:hye_x_preferred":[
-        "\u053f\u0561\u056c\u0561\u0576\u0584"
-    ],
-    "name:hye_x_variant":[
-        "\u0531\u0580\u0565\u057d\u057f"
     ],
     "name:ido_x_preferred":[
         "Arrest"
@@ -178,14 +124,8 @@
     "name:isl_x_preferred":[
         "Arrest"
     ],
-    "name:ita_x_preferred":[
-        "Arresto"
-    ],
     "name:jam_x_preferred":[
         "Arrest"
-    ],
-    "name:jpn_x_preferred":[
-        "\u902e\u6355"
     ],
     "name:kab_x_preferred":[
         "Arrest"
@@ -193,17 +133,8 @@
     "name:kal_x_preferred":[
         "Arrest"
     ],
-    "name:kan_x_preferred":[
-        "\u0ca6\u0cb8\u0ccd\u0ca4\u0c97\u0cbf\u0cb0\u0cbf"
-    ],
-    "name:kaz_x_preferred":[
-        "\u049a\u0430\u043c\u0430\u0443\u0493\u0430 \u0430\u043b\u0443"
-    ],
     "name:kon_x_preferred":[
         "Arrest"
-    ],
-    "name:kor_x_preferred":[
-        "\uccb4\ud3ec"
     ],
     "name:lat_x_preferred":[
         "Arrest"
@@ -217,14 +148,8 @@
     "name:lim_x_preferred":[
         "Arrest"
     ],
-    "name:lit_x_preferred":[
-        "Su\u0117mimas"
-    ],
     "name:ltz_x_preferred":[
         "Arrest"
-    ],
-    "name:mal_x_preferred":[
-        "\u0d05\u0d31\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d"
     ],
     "name:min_x_preferred":[
         "Arrest"
@@ -244,9 +169,6 @@
     "name:nds_x_preferred":[
         "Arrest"
     ],
-    "name:nld_x_preferred":[
-        "Aanhouding"
-    ],
     "name:nld_x_variant":[
         "Arrest"
     ],
@@ -255,9 +177,6 @@
     ],
     "name:nob_x_preferred":[
         "Arrest"
-    ],
-    "name:nor_x_preferred":[
-        "Anholdelse"
     ],
     "name:nrm_x_preferred":[
         "Arrest"
@@ -268,17 +187,8 @@
     "name:pap_x_preferred":[
         "Arrest"
     ],
-    "name:pcd_x_preferred":[
-        "Arret"
-    ],
     "name:pms_x_preferred":[
         "Arrest"
-    ],
-    "name:pol_x_preferred":[
-        "Areszt"
-    ],
-    "name:por_x_preferred":[
-        "Arresto"
     ],
     "name:prg_x_preferred":[
         "Arrest"
@@ -292,35 +202,14 @@
     "name:ron_x_preferred":[
         "Arrest"
     ],
-    "name:ron_x_variant":[
-        "Arest"
-    ],
-    "name:rus_x_preferred":[
-        "\u0410\u0440\u0435\u0441\u0442 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438"
-    ],
     "name:scn_x_preferred":[
         "Arrest"
     ],
     "name:sco_x_preferred":[
         "Arrest"
     ],
-    "name:sin_x_preferred":[
-        "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8"
-    ],
     "name:slk_x_preferred":[
         "Arrest"
-    ],
-    "name:slv_x_preferred":[
-        "Aretacija"
-    ],
-    "name:som_x_preferred":[
-        "Xadhig xabsi"
-    ],
-    "name:spa_x_preferred":[
-        "Arresto"
-    ],
-    "name:sqi_x_preferred":[
-        "Arrestimi"
     ],
     "name:sqi_x_variant":[
         "Arrest"
@@ -328,29 +217,8 @@
     "name:srd_x_preferred":[
         "Arrest"
     ],
-    "name:srp_x_preferred":[
-        "\u0410\u0440\u0435\u0441\u0442"
-    ],
-    "name:srp_x_variant":[
-        "\u041f\u0440\u0438\u0442\u0432\u043e\u0440"
-    ],
     "name:swa_x_preferred":[
         "Arrest"
-    ],
-    "name:swe_x_preferred":[
-        "Gripande"
-    ],
-    "name:tha_x_preferred":[
-        "\u0e01\u0e32\u0e23\u0e08\u0e31\u0e1a"
-    ],
-    "name:tur_x_preferred":[
-        "Tutuklama"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0440\u0440\u0435"
-    ],
-    "name:ukr_x_variant":[
-        "\u0410\u0440\u0435\u0448\u0442"
     ],
     "name:uzb_x_preferred":[
         "Arrest"
@@ -378,15 +246,6 @@
     ],
     "name:wol_x_preferred":[
         "Arrest"
-    ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05e8\u05e2\u05e1\u05d8"
-    ],
-    "name:zho_x_preferred":[
-        "\u963f\u96f7"
-    ],
-    "name:zho_x_variant":[
-        "\u963f\u96f7"
     ],
     "name:zul_x_preferred":[
         "Arrest"

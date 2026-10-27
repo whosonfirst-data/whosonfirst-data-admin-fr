@@ -510,9 +510,6 @@
     "name:rup_x_preferred":[
         "Lalande"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u0430\u043b\u0430\u043d\u0434"
-    ],
     "name:sag_x_preferred":[
         "Lalande"
     ],
@@ -717,8 +714,7 @@
         "gn:id":3008543,
         "gp:id":22527855,
         "qs:id":219933,
-        "qs_pg:id":219933,
-        "wd:id":"Q23045912"
+        "qs_pg:id":219933
     },
     "wof:country":"FR",
     "wof:geom_alt":[

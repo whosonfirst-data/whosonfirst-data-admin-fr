@@ -199,12 +199,6 @@
     "name:hau_x_preferred":[
         "Buhl"
     ],
-    "name:hbs_x_preferred":[
-        "Bul"
-    ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d5\u05dc"
-    ],
     "name:her_x_preferred":[
         "Buhl"
     ],
@@ -370,9 +364,6 @@
     "name:srd_x_preferred":[
         "Buhl"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0443\u043b"
-    ],
     "name:sun_x_preferred":[
         "Buhl"
     ],
@@ -387,12 +378,6 @@
     ],
     "name:tur_x_preferred":[
         "Buhl"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0411\u044e\u043b\u044c"
-    ],
-    "name:ukr_x_variant":[
-        "\u0411\u044e\u043b"
     ],
     "name:uzb_x_preferred":[
         "Buhl"
@@ -456,8 +441,7 @@
         "fct:id":"0a459bb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3029619,
         "gp:id":582306,
-        "qs:id":1012408,
-        "wd:id":"Q228314"
+        "qs:id":1012408
     },
     "wof:coterminous":[
         404410983

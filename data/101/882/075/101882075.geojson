@@ -68,9 +68,6 @@
     "name:dan_x_preferred":[
         "Lohr"
     ],
-    "name:deu_x_preferred":[
-        "L\u00f6hr"
-    ],
     "name:deu_x_variant":[
         "Lohr"
     ],
@@ -421,8 +418,7 @@
         "gn:id":2997887,
         "gp:id":608421,
         "qs:id":198891,
-        "qs_pg:id":198891,
-        "wd:id":"Q6668046"
+        "qs_pg:id":198891
     },
     "wof:coterminous":[
         404401573

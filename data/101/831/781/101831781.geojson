@@ -167,9 +167,6 @@
     "name:fra_x_preferred":[
         "Vernet"
     ],
-    "name:fra_x_variant":[
-        "Le Vernet"
-    ],
     "name:frc_x_preferred":[
         "Vernet"
     ],
@@ -377,9 +374,6 @@
     "name:min_x_preferred":[
         "Vernet"
     ],
-    "name:mkd_x_preferred":[
-        "\u0412\u0435\u0440\u043d\u0435"
-    ],
     "name:mlg_x_preferred":[
         "Vernet"
     ],
@@ -508,9 +502,6 @@
     ],
     "name:rup_x_preferred":[
         "Vernet"
-    ],
-    "name:rus_x_preferred":[
-        "\u0412\u0435\u0440\u043d\u0435\u0442"
     ],
     "name:sag_x_preferred":[
         "Vernet"
@@ -662,9 +653,6 @@
     "name:zea_x_preferred":[
         "Vernet"
     ],
-    "name:zho_x_preferred":[
-        "\u97e6\u5c14\u5185"
-    ],
     "name:zul_x_preferred":[
         "Vernet"
     ],
@@ -705,8 +693,7 @@
         "gn:id":2998879,
         "gp:id":604896,
         "qs:id":198791,
-        "qs_pg:id":198791,
-        "wd:id":"Q21508349"
+        "qs_pg:id":198791
     },
     "wof:coterminous":[
         404424673
