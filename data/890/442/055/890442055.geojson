@@ -580,9 +580,7 @@
         1108805929,
         85633147,
         85671195,
-        102191577,
-        85632233,
-        1091680781
+        102191577
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -624,7 +622,6 @@
         },
         {
             "continent_id":102191577,
-            "country_id":85632233,
             "locality_id":890442055,
             "macrocounty_id":1108805929,
             "region_id":85671195
@@ -633,7 +630,7 @@
     "wof:id":890442055,
     "wof:lastmodified":1706239576,
     "wof:name":"Cayenne",
-    "wof:parent_id":1091680781,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "county"

@@ -287,11 +287,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404228319,
+        1175611675,
         404367463,
         85633147,
         1108826391,
-        1126034291,
         136253037,
         102072579,
         85683271
@@ -313,8 +312,7 @@
             "county_id":102072579,
             "empire_id":136253037,
             "localadmin_id":404367463,
-            "locality_id":1126034291,
-            "macrocounty_id":404228319,
+            "macrocounty_id":1175611675,
             "macroregion_id":1108826391,
             "neighbourhood_id":1360687331,
             "region_id":85683271

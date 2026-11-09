@@ -178,11 +178,9 @@
         102191581,
         85633147,
         1108805929,
-        1125935589,
         1091680671,
         85671195,
-        102191577,
-        85632233
+        102191577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -199,16 +197,13 @@
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":1091680671,
-            "locality_id":1125935589,
             "macrocounty_id":1108805929,
             "neighbourhood_id":1360685141,
             "region_id":85671195
         },
         {
             "continent_id":102191577,
-            "country_id":85632233,
             "county_id":1091680671,
-            "locality_id":1125935589,
             "macrocounty_id":1108805929,
             "neighbourhood_id":1360685141,
             "region_id":85671195

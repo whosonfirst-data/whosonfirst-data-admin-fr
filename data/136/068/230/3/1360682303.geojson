@@ -41,7 +41,7 @@
     "woe:name_adm1":"Pays de la Loire",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1125777059
+
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,6 @@
         {
             "continent_id":-1,
             "country_id":-1,
-            "locality_id":1125777059,
             "neighbourhood_id":1360682303,
             "region_id":-1
         }

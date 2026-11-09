@@ -33,7 +33,7 @@
         85683441,
         102191581,
         85633147,
-        404428843,
+        1360698467,
         404228029,
         404227445,
         102072499
@@ -46,10 +46,10 @@
     "wof:geomhash":"ce840755e91193d0ebf7b02683ee79e7",
     "wof:hierarchy":[
         {
+            "borough_id":1360698467,
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072499,
-            "localadmin_id":404428843,
             "locality_id":1360220123,
             "macrocounty_id":404228029,
             "macroregion_id":404227445,
@@ -59,7 +59,7 @@
     "wof:id":1360220123,
     "wof:lastmodified":1536750746,
     "wof:name":"Vieille Chapelle",
-    "wof:parent_id":404428843,
+    "wof:parent_id":1360698467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fr",
     "wof:superseded_by":[],

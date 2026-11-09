@@ -37,7 +37,7 @@
         85683441,
         102191581,
         85633147,
-        404428843,
+        1360698467,
         404228029,
         404227445,
         102072499
@@ -51,10 +51,10 @@
     "wof:geomhash":"f414e94fd06d32e5b35698f57744d0f8",
     "wof:hierarchy":[
         {
+            "borough_id":1360698467,
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072499,
-            "localadmin_id":404428843,
             "locality_id":1210045883,
             "macrocounty_id":404228029,
             "macroregion_id":404227445,
@@ -64,7 +64,7 @@
     "wof:id":1210045883,
     "wof:lastmodified":1564124246,
     "wof:name":"Marseille 05",
-    "wof:parent_id":404428843,
+    "wof:parent_id":1360698467,
     "wof:placetype":"locality",
     "wof:population":44583,
     "wof:population_rank":7,

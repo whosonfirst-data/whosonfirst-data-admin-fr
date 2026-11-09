@@ -45,7 +45,6 @@
         404336183,
         85633129,
         404227393,
-        1125899401,
         85682741
     ],
     "wof:breaches":[],
@@ -61,7 +60,6 @@
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404336183,
-            "locality_id":1125899401,
             "macroregion_id":404227393,
             "neighbourhood_id":1360684481,
             "region_id":85682741

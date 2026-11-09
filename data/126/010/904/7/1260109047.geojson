@@ -33,7 +33,7 @@
         85683441,
         102191581,
         85633147,
-        404428843,
+        1360698467,
         404228029,
         404227445,
         102072499
@@ -46,10 +46,10 @@
     "wof:geomhash":"5dd766e594c1b510fe4da9e3fe67c0b2",
     "wof:hierarchy":[
         {
+            "borough_id":1360698467,
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072499,
-            "localadmin_id":404428843,
             "locality_id":1260109047,
             "macrocounty_id":404228029,
             "macroregion_id":404227445,
@@ -59,7 +59,7 @@
     "wof:id":1260109047,
     "wof:lastmodified":1536951568,
     "wof:name":"La Batarelle",
-    "wof:parent_id":404428843,
+    "wof:parent_id":1360698467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fr",
     "wof:superseded_by":[],

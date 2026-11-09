@@ -46,7 +46,6 @@
         404417271,
         85633147,
         1108826385,
-        1125963775,
         136253037,
         102071357,
         85683539,
@@ -70,7 +69,6 @@
             "county_id":102071357,
             "empire_id":136253037,
             "localadmin_id":404417271,
-            "locality_id":1125963775,
             "macrocounty_id":404227727,
             "macroregion_id":1108826385,
             "neighbourhood_id":1360685823,
@@ -80,7 +78,6 @@
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404336183,
-            "locality_id":1125963775,
             "macroregion_id":404227393,
             "neighbourhood_id":1360685823,
             "region_id":85682741

@@ -55,8 +55,7 @@
         85633147,
         1108805929,
         1091680601,
-        102191577,
-        85632233
+        102191577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,6 @@
         },
         {
             "continent_id":102191577,
-            "country_id":85632233,
             "county_id":1091680601,
             "localadmin_id":404429115,
             "macrocounty_id":1108805929,

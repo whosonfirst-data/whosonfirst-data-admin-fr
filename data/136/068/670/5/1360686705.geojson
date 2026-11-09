@@ -41,8 +41,7 @@
     "woe:name_adm1":"Provence-Alpes-C\u00f4te d'Azur",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        1125999865
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +55,6 @@
         {
             "continent_id":102191581,
             "country_id":-1,
-            "locality_id":1125999865,
             "neighbourhood_id":1360686705,
             "region_id":-1
         }

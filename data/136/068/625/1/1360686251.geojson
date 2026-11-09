@@ -53,7 +53,7 @@
     "woe:name_adm1":"Aquitaine",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1125979725
+
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +68,6 @@
         {
             "continent_id":-1,
             "country_id":-1,
-            "locality_id":1125979725,
             "neighbourhood_id":1360686251,
             "region_id":-1
         }
