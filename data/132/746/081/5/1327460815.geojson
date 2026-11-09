@@ -48,7 +48,7 @@
         "wk:page":"15th_arrondissement_of_Marseille"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6959447c49f04afd01a331d3395c552f",
+    "wof:geomhash":"47cdbcf05b380a665dc8fef58adfbca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     5.35386,
     43.37224000000001
 ],
-  "geometry": {"coordinates":[5.35386,43.37224000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.35386,43.37224],"type":"Point"}
 }

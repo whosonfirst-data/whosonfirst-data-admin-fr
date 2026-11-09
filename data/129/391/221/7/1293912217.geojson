@@ -60,7 +60,7 @@
         "wk:page":"Saint-Ch%C3%A9ly-du-Tarn"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58f4dac1020c41e4477632aba8054843",
+    "wof:geomhash":"0e662bc5f39c8d84152b82c1b859ae68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     3.384,
     44.33600000000001
 ],
-  "geometry": {"coordinates":[3.384,44.33600000000001],"type":"Point"}
+  "geometry": {"coordinates":[3.384,44.336],"type":"Point"}
 }

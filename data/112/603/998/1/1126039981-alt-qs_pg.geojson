@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"qs_pg",
     "src:geom":"qs_pg",
-    "wof:geomhash":"c686af8ef4ccfc4103531500fbfc401c",
+    "wof:geomhash":"368616255225cbb030eddc3590b2050b",
     "wof:id":1126039981,
     "wof:repo":"whosonfirst-data-admin-fr"
 },
@@ -14,5 +14,5 @@
     0.0,
     45.31667
 ],
-  "geometry": {"coordinates":[0.0,45.31667],"type":"Point"}
+  "geometry": {"coordinates":[0,45.31667],"type":"Point"}
 }

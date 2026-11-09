@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
-    "wof:geomhash":"ec01a444bac0902d4323bf16bf449df9",
+    "wof:geomhash":"4c75e51101c14a6fae03b2b487dc579c",
     "wof:id":404368877,
     "wof:repo":"whosonfirst-data-admin-fr"
 },
@@ -14,5 +14,5 @@
     -0.01018824135357,
     44.68092031101374
 ],
-  "geometry": {"coordinates":[[[-0.01179496837609,44.67866801832973],[-0.01245843084384,44.68092031101374],[-0.01018824135357,44.67884689319244],[-0.01179496837609,44.67866801832973]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-0.011795,44.678668],[-0.012458,44.68092],[-0.010188,44.678847],[-0.011795,44.678668]]],"type":"Polygon"}
 }

@@ -43,7 +43,7 @@
         "gn:id":3233565
     },
     "wof:country":"FR",
-    "wof:geomhash":"07bfbb2be257f7b9fc1338dc4520bbc6",
+    "wof:geomhash":"84b8511ea84cb544a36e4fb9ee0ac1b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -2.29831,
     47.24547000000001
 ],
-  "geometry": {"coordinates":[-2.29831,47.24547000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.29831,47.24547],"type":"Point"}
 }

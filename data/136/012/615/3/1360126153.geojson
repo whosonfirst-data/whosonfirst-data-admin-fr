@@ -51,7 +51,7 @@
         "wk:page":"Froissy_%28La_Neuville-l%C3%A8s-Bray%29"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d1c2be3f405fe5ddd28462bd204109c9",
+    "wof:geomhash":"66efa9f0b824d78f0dcd4d516a4ce97f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     2.72493,
     49.92299000000001
 ],
-  "geometry": {"coordinates":[2.72493,49.92299000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.72493,49.92299],"type":"Point"}
 }

@@ -123,7 +123,7 @@
         "wk:page":"La_Neuville-d%27Aumont"
     },
     "wof:country":"FR",
-    "wof:geomhash":"92f4b7707a8875ff5c55dd56ab0aa6a5",
+    "wof:geomhash":"7d7ac650b518d68d33a7a042f9f32eae",
     "wof:hierarchy":[
         {
             "country_id":85633147,
@@ -146,5 +146,5 @@
     2.10108,
     49.31104000000001
 ],
-  "geometry": {"coordinates":[2.10108,49.31104000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.10108,49.31104],"type":"Point"}
 }

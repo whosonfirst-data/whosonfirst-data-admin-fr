@@ -127,7 +127,7 @@
         "wk:page":"Saint-Just-d%27Avray"
     },
     "wof:country":"FR",
-    "wof:geomhash":"faa8f2cd7005fdf23dccdbce6e86d397",
+    "wof:geomhash":"c372ea2b146d77e67df325193ce27632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,5 +157,5 @@
     4.44739,
     46.00194000000001
 ],
-  "geometry": {"coordinates":[4.44739,46.00194000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.44739,46.00194],"type":"Point"}
 }

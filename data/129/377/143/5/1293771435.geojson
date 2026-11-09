@@ -120,7 +120,7 @@
         "wk:page":"Germigny-l%27%C3%89v%C3%AAque"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d6001e0f69ce405e68bcfbfd22ea76b",
+    "wof:geomhash":"90e66533cf0cce1c17e53e088c71a275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,5 +149,5 @@
     2.94429,
     48.99162000000001
 ],
-  "geometry": {"coordinates":[2.94429,48.99162000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.94429,48.99162],"type":"Point"}
 }

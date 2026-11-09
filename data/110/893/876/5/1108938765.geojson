@@ -36,7 +36,7 @@
     "wof:concordances":{},
     "wof:country":"FR",
     "wof:created":1491360606,
-    "wof:geomhash":"311ac43dc7339c4aad543daa2c81a561",
+    "wof:geomhash":"79ed4c389ae5f96c40ab734ee55b0573",
     "wof:hierarchy":[
         {
             "borough_id":1360698455,
@@ -66,5 +66,5 @@
     5.39602978308849,
     43.28217413157313
 ],
-  "geometry": {"coordinates":[5.39602978308849,43.28217413157313],"type":"Point"}
+  "geometry": {"coordinates":[5.39603,43.282174],"type":"Point"}
 }

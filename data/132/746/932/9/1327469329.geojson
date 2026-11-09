@@ -121,7 +121,7 @@
         "wk:page":"Les_Quatre-Routes-du-Lot"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80a002a53b43050838969de87ad81671",
+    "wof:geomhash":"9cf3c357ba0ad2bbc002a500e7dc72f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,5 +153,5 @@
     1.65,
     45.0
 ],
-  "geometry": {"coordinates":[1.65,45.0],"type":"Point"}
+  "geometry": {"coordinates":[1.65,45],"type":"Point"}
 }

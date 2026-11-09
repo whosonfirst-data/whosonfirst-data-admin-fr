@@ -130,7 +130,7 @@
         "wk:page":"Hodenc-l%27%C3%89v%C3%AAque"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ba7379bb48319e09d8366d1727add173",
+    "wof:geomhash":"8e5ef66f5888dc54e0e4482ec46c2d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,5 +160,5 @@
     2.14886,
     49.33922000000001
 ],
-  "geometry": {"coordinates":[2.14886,49.33922000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.14886,49.33922],"type":"Point"}
 }

@@ -118,7 +118,7 @@
         "wk:page":"L%27H%C3%B4pital-du-Grosbois"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21124b9da9f7bc49e9e29f73a4e884fb",
+    "wof:geomhash":"13983b42a2f088e07b2880625f2e52f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,5 +148,5 @@
     6.21987,
     47.17019000000001
 ],
-  "geometry": {"coordinates":[6.21987,47.17019000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.21987,47.17019],"type":"Point"}
 }

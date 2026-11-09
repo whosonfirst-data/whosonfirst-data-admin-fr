@@ -41,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"FR",
-    "wof:geomhash":"e564867b1f53acbadbb8b80bf407a0a8",
+    "wof:geomhash":"fcf842e6d32f5d42cc3bc4d69fd57e22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     2.56743034246777,
     48.83223326885792
 ],
-  "geometry": {"coordinates":[2.56743034246777,48.83223326885792],"type":"Point"}
+  "geometry": {"coordinates":[2.56743,48.832233],"type":"Point"}
 }

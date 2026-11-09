@@ -54,7 +54,7 @@
         "wk:page":"Beaumont-en-Verdunois"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b5952a97d2b0bd50cad4ecadc3b4117d",
+    "wof:geomhash":"719aff6dd02140eb5ac3d3e00bfbb376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     5.40699,
     49.25839000000001
 ],
-  "geometry": {"coordinates":[5.40699,49.25839000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.40699,49.25839],"type":"Point"}
 }

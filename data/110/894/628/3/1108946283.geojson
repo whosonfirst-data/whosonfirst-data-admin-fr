@@ -114,7 +114,7 @@
     "wof:concordances":{},
     "wof:country":"FR",
     "wof:created":1491365597,
-    "wof:geomhash":"dcf8a6ca8059364e5f8818ef23e38166",
+    "wof:geomhash":"8fa068a3b1b9d79bae6ff482aaa60b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,5 +144,5 @@
     4.79338054147027,
     45.76231052973203
 ],
-  "geometry": {"coordinates":[4.79338054147027,45.76231052973203],"type":"Point"}
+  "geometry": {"coordinates":[4.793381,45.762311],"type":"Point"}
 }

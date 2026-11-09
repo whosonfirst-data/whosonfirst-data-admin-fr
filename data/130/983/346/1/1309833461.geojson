@@ -52,7 +52,7 @@
         "wk:page":"Bors%2C_Canton_of_Montmoreau-Saint-Cybard"
     },
     "wof:country":"FR",
-    "wof:geomhash":"158f85bec966d22f7ddd06db5cdf2d39",
+    "wof:geomhash":"d77aa4c08a2ab86825034d7a5529f4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     0.16788,
     45.34334000000001
 ],
-  "geometry": {"coordinates":[0.16788,45.34334000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.16788,45.34334],"type":"Point"}
 }

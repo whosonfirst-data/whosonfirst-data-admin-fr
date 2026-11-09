@@ -130,7 +130,7 @@
         "wk:page":"Razac-d%27Eymet"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d26a1710378236d9e901ef298f0fad5",
+    "wof:geomhash":"76b2679486a476729a228b3a28bacece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,5 +160,5 @@
     0.45774,
     44.69224000000001
 ],
-  "geometry": {"coordinates":[0.45774,44.69224000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.45774,44.69224],"type":"Point"}
 }

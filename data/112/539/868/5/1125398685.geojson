@@ -46,7 +46,7 @@
     },
     "wof:country":"FR",
     "wof:created":1497049180,
-    "wof:geomhash":"cc28c232062c3be4b7fca192857e1de6",
+    "wof:geomhash":"650cd5785cccf5b3494571ff06b3d7f1",
     "wof:hierarchy":[
         {
             "country_id":85633147,
@@ -71,5 +71,5 @@
     0.25,
     48.0
 ],
-  "geometry": {"coordinates":[0.25,48.0],"type":"Point"}
+  "geometry": {"coordinates":[0.25,48],"type":"Point"}
 }

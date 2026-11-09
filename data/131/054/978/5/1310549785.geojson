@@ -52,7 +52,7 @@
         "wk:page":"Plateau_d%27Assy"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d5da2e7ce7ef94e29163b01b054251a6",
+    "wof:geomhash":"b2284846230c7d8f2d5b7313e65b7719",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     6.69856,
     45.93624000000001
 ],
-  "geometry": {"coordinates":[6.69856,45.93624000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.69856,45.93624],"type":"Point"}
 }
