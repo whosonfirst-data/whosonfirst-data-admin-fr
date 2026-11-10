@@ -142,14 +142,14 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85683251,
+        85683289,
         102191581,
-        404227751,
-        404347655,
+        404227717,
+        404387491,
         85633147,
-        1108826393,
+        1108826399,
         136253037,
-        102064519
+        102067009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,19 +165,19 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102064519,
+            "county_id":102067009,
             "empire_id":136253037,
-            "localadmin_id":404347655,
+            "localadmin_id":404387491,
             "locality_id":1327475359,
-            "macrocounty_id":404227751,
-            "macroregion_id":1108826393,
-            "region_id":85683251
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
+            "region_id":85683289
         }
     ],
     "wof:id":1327475359,
-    "wof:lastmodified":1706239721,
+    "wof:lastmodified":1794351189,
     "wof:name":"Saint-Valery",
-    "wof:parent_id":404347655,
+    "wof:parent_id":404387491,
     "wof:placetype":"locality",
     "wof:placetype_local":"Commune simple",
     "wof:population":40,

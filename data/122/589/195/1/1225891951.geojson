@@ -135,11 +135,11 @@
         85683559,
         102191581,
         404227739,
-        404423175,
+        404427647,
         85633147,
         1108826395,
         136253037,
-        102064683
+        102066631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,9 +162,9 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102064683,
+            "county_id":102066631,
             "empire_id":136253037,
-            "localadmin_id":404423175,
+            "localadmin_id":404427647,
             "locality_id":1225891951,
             "macrocounty_id":404227739,
             "macroregion_id":1108826395,
@@ -172,9 +172,9 @@
         }
     ],
     "wof:id":1225891951,
-    "wof:lastmodified":1706239600,
+    "wof:lastmodified":1794351189,
     "wof:name":"Magny-Danigon",
-    "wof:parent_id":404423175,
+    "wof:parent_id":404427647,
     "wof:placetype":"locality",
     "wof:placetype_local":"Commune simple",
     "wof:repo":"whosonfirst-data-admin-fr",

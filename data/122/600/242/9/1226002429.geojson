@@ -114,10 +114,10 @@
         85683349,
         102191581,
         85633147,
-        404409111,
-        404227887,
+        404402293,
+        404227675,
         404227461,
-        102068593
+        102065631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,18 +139,18 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068593,
-            "localadmin_id":404409111,
+            "county_id":102065631,
+            "localadmin_id":404402293,
             "locality_id":1226002429,
-            "macrocounty_id":404227887,
+            "macrocounty_id":404227675,
             "macroregion_id":404227461,
             "region_id":85683349
         }
     ],
     "wof:id":1226002429,
-    "wof:lastmodified":1706239601,
+    "wof:lastmodified":1794351189,
     "wof:name":"Beauvilliers",
-    "wof:parent_id":404409111,
+    "wof:parent_id":404402293,
     "wof:placetype":"locality",
     "wof:placetype_local":"Commune simple",
     "wof:repo":"whosonfirst-data-admin-fr",

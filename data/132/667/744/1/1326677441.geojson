@@ -67,11 +67,11 @@
         85683353,
         102191581,
         404227783,
-        404379935,
+        404424397,
         85633147,
         1108826395,
         136253037,
-        102066643
+        102066281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,9 +86,9 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102066643,
+            "county_id":102066281,
             "empire_id":136253037,
-            "localadmin_id":404379935,
+            "localadmin_id":404424397,
             "locality_id":1326677441,
             "macrocounty_id":404227783,
             "macroregion_id":1108826395,
@@ -96,9 +96,9 @@
         }
     ],
     "wof:id":1326677441,
-    "wof:lastmodified":1706239708,
+    "wof:lastmodified":1794351189,
     "wof:name":"Autrechene",
-    "wof:parent_id":404379935,
+    "wof:parent_id":404424397,
     "wof:placetype":"locality",
     "wof:placetype_local":"Commune simple",
     "wof:repo":"whosonfirst-data-admin-fr",

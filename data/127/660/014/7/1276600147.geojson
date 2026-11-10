@@ -147,11 +147,11 @@
         85683579,
         102191581,
         404227825,
-        404428285,
+        404407843,
         85633147,
         1108826393,
         136253037,
-        102070739
+        102067239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,9 +166,9 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070739,
+            "county_id":102067239,
             "empire_id":136253037,
-            "localadmin_id":404428285,
+            "localadmin_id":404407843,
             "locality_id":1276600147,
             "macrocounty_id":404227825,
             "macroregion_id":1108826393,
@@ -176,9 +176,9 @@
         }
     ],
     "wof:id":1276600147,
-    "wof:lastmodified":1706239658,
+    "wof:lastmodified":1794351189,
     "wof:name":"Vacognes-Neuilly",
-    "wof:parent_id":404428285,
+    "wof:parent_id":404407843,
     "wof:placetype":"locality",
     "wof:placetype_local":"Commune simple",
     "wof:repo":"whosonfirst-data-admin-fr",
