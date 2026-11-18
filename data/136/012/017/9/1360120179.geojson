@@ -126,12 +126,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Hayes"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6d77\u8036\u65af\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6d77\u4f0a\u65af\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u6d77\u8036\u65af"
     ],
@@ -194,7 +188,7 @@
         }
     ],
     "wof:id":1360120179,
-    "wof:lastmodified":1706239741,
+    "wof:lastmodified":1794999722,
     "wof:name":"Hayes",
     "wof:parent_id":404404679,
     "wof:placetype":"locality",
