@@ -26,8 +26,8 @@
     "gn:population":1349,
     "gn:timezone":"Europe/Paris",
     "iso:country":"FR",
-    "lbl:latitude":45.234526,
-    "lbl:longitude":-0.508059,
+    "lbl:latitude":45.417076,
+    "lbl:longitude":-0.177498,
     "mps:latitude":45.234526,
     "mps:longitude":-0.508059,
     "mz:hierarchy_label":1,
@@ -99,7 +99,7 @@
         "quattroshapes",
         "frgov"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl:centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":10,
     "wof:belongsto":[

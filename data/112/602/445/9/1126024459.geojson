@@ -14,8 +14,8 @@
     "gn:gn_pop":236,
     "gn:population":236,
     "iso:country":"FR",
-    "lbl:latitude":43.06667,
-    "lbl:longitude":-0.06667,
+    "lbl:latitude":43.055584,
+    "lbl:longitude":-0.116236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -308,7 +308,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl:centroid":"whosonfirst",
     "src:population":"geonames",
     "woe:adm0_id":23424819,
     "woe:name_adm0":"France",

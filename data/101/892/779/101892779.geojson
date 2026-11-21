@@ -10,8 +10,8 @@
     "geom:latitude":46.411323,
     "geom:longitude":3.003347,
     "iso:country":"FR",
-    "lbl:latitude":46.408228,
-    "lbl:longitude":3.054403,
+    "lbl:latitude":46.411951,
+    "lbl:longitude":3.000851,
     "mps:latitude":46.408228,
     "mps:longitude":3.054403,
     "mz:hierarchy_label":1,
@@ -329,7 +329,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl:centroid":"whosonfirst",
     "wd:wordcount":75,
     "wof:belongsto":[
         85683293,

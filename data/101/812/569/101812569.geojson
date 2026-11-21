@@ -11,8 +11,8 @@
     "geom:longitude":2.410001,
     "gn:population":1479,
     "iso:country":"FR",
-    "lbl:latitude":50.568516,
-    "lbl:longitude":2.414895,
+    "lbl:latitude":50.587076,
+    "lbl:longitude":2.405605,
     "mps:latitude":50.568516,
     "mps:longitude":2.414895,
     "mz:hierarchy_label":1,
@@ -317,7 +317,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl:centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         85683255,
